@@ -11,7 +11,7 @@ file1.close()
 # Load data used for training
 data = pd.read_csv("traineddata.csv")
 
-st.title("Laptop Price Predictor")
+st.title("Laptop Price Predictors")
 
 # Rest of your code...
 
